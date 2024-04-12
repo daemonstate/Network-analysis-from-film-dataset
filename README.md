@@ -1,1 +1,2 @@
 # Network-analysis-from-film-dataset
+Collaboration network contains a lot of interesting data on film industry research papers. I used it in order to create a network architecture, analyze it in the network analysis fashion and visualize the nodes.
